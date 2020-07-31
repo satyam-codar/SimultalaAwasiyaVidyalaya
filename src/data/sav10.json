@@ -1,0 +1,652 @@
+{
+    "profiles":[
+    {
+        "SNO": "1",
+        "AdmissionNumber": "SAV-10-01",
+        "Student Name": "SHUBHAM SUDHANSHU",
+        "Father's Name": "UMESH KUMAR"
+    },
+    {
+        "SNO": "2",
+        "AdmissionNumber": "SAV-10-02",
+        "Student Name": "VINAY KUMAR",
+        "Father's Name": "LATE DILIP PASWAN"
+    },
+    {
+        "SNO": "3",
+        "AdmissionNumber": "SAV-10-03",
+        "Student Name": "ANKIT KUMAR",
+        "Father's Name": "AJAY KUMAR CHOUDHARY"
+    },
+    {
+        "SNO": "4",
+        "AdmissionNumber": "SAV-10-04",
+        "Student Name": "BIMAL ANAND",
+        "Father's Name": "AKHILESH KUMAR SINGH"
+    },
+    {
+        "SNO": "5",
+        "AdmissionNumber": "SAV-10-05",
+        "Student Name": "AMAN KUMAR",
+        "Father's Name": "MANOJ SHARMA"
+    },
+    {
+        "SNO": "6",
+        "AdmissionNumber": "SAV-10-06",
+        "Student Name": "AMAN KUMAR RAY",
+        "Father's Name": "UCHIT RAY"
+    },
+    {
+        "SNO": "7",
+        "AdmissionNumber": "SAV-10-07",
+        "Student Name": "NISHANT KUMAR",
+        "Father's Name": "RAVINDRA PRASAD RAI"
+    },
+    {
+        "SNO": "8",
+        "AdmissionNumber": "SAV-10-08",
+        "Student Name": "VAIBHAV PRATAP",
+        "Father's Name": "TEJ PRATAP SINGH"
+    },
+    {
+        "SNO": "9",
+        "AdmissionNumber": "SAV-10-09",
+        "Student Name": "GAURAV BAGHEL",
+        "Father's Name": "HIMANSHU SHEKHAR BAGHEL"
+    },
+    {
+        "SNO": "10",
+        "AdmissionNumber": "SAV-10-10",
+        "Student Name": "AMAN KUMAR",
+        "Father's Name": "VIJENDRA KUMAR"
+    },
+    {
+        "SNO": "11",
+        "AdmissionNumber": "SAV-10-11",
+        "Student Name": "CHAMAN RAJ",
+        "Father's Name": "RAVI NANDAN SINGH"
+    },
+    {
+        "SNO": "12",
+        "AdmissionNumber": "SAV-10-12",
+        "Student Name": "KAMLESH KUMAR",
+        "Father's Name": "KRISHNA KUMAR SINGH"
+    },
+    {
+        "SNO": "13",
+        "AdmissionNumber": "SAV-10-13",
+        "Student Name": "ANURAG ANKIT",
+        "Father's Name": "DINESH SINGH"
+    },
+    {
+        "SNO": "14",
+        "AdmissionNumber": "SAV-10-14",
+        "Student Name": "AMAN BHARDWAJ",
+        "Father's Name": "RAGHWENDRA KUMAR"
+    },
+    {
+        "SNO": "15",
+        "AdmissionNumber": "SAV-10-16",
+        "Student Name": "VIVEK VAIBHAW",
+        "Father's Name": "MANOJ PANDEY"
+    },
+    {
+        "SNO": "16",
+        "AdmissionNumber": "SAV-10-17",
+        "Student Name": "SAKIB SHAUKAT",
+        "Father's Name": "SHAUKAT ALI"
+    },
+    {
+        "SNO": "17",
+        "AdmissionNumber": "SAV-10-18",
+        "Student Name": "SANNI KUMAR",
+        "Father's Name": "NILKAMAL MISHRA"
+    },
+    {
+        "SNO": "18",
+        "AdmissionNumber": "SAV-10-19",
+        "Student Name": "ABHINAV ADARSH",
+        "Father's Name": "ANAND KUMAR"
+    },
+    {
+        "SNO": "19",
+        "AdmissionNumber": "SAV-10-20",
+        "Student Name": "VIKASH KUMAR",
+        "Father's Name": "DAYANAND KUMAR"
+    },
+    {
+        "SNO": "20",
+        "AdmissionNumber": "SAV-10-21",
+        "Student Name": "SHIV PRAKASH",
+        "Father's Name": "RAM SHOBHIT SAH"
+    },
+    {
+        "SNO": "21",
+        "AdmissionNumber": "SAV-10-22",
+        "Student Name": "CHITRANJAN KUMAR",
+        "Father's Name": "KEDAR SAH"
+    },
+    {
+        "SNO": "22",
+        "AdmissionNumber": "SAV-10-23",
+        "Student Name": "SAURABH KUMAR",
+        "Father's Name": "NAGENDRA SINGH"
+    },
+    {
+        "SNO": "23",
+        "AdmissionNumber": "SAV-10-24",
+        "Student Name": "GAURAV RAJ",
+        "Father's Name": "MANOJ RAM"
+    },
+    {
+        "SNO": "24",
+        "AdmissionNumber": "SAV-10-25",
+        "Student Name": "MD. TANVEER ANSARI",
+        "Father's Name": "MD. ARULESH ANSARI"
+    },
+    {
+        "SNO": "25",
+        "AdmissionNumber": "SAV-10-26",
+        "Student Name": "BANTI KUMAR",
+        "Father's Name": "AMIT KUMAR"
+    },
+    {
+        "SNO": "26",
+        "AdmissionNumber": "SAV-10-27",
+        "Student Name": "JAYANT KUMAR",
+        "Father's Name": "AJAY KUMAR SINGH"
+    },
+    {
+        "SNO": "27",
+        "AdmissionNumber": "SAV-10-28",
+        "Student Name": "VIVEK KUMAR",
+        "Father's Name": "RAM NARESH SINGH"
+    },
+    {
+        "SNO": "28",
+        "AdmissionNumber": "SAV-10-29",
+        "Student Name": "SANGAM KUMAR",
+        "Father's Name": "HARI NANDAN YADAV"
+    },
+    {
+        "SNO": "29",
+        "AdmissionNumber": "SAV-10-30",
+        "Student Name": "MANVENDRA KRISHNA",
+        "Father's Name": "TEJ NARAYAN SINGH"
+    },
+    {
+        "SNO": "30",
+        "AdmissionNumber": "SAV-10-31",
+        "Student Name": "SHIVAM RAJ",
+        "Father's Name": "PANKAJ SINGH"
+    },
+    {
+        "SNO": "31",
+        "AdmissionNumber": "SAV-10-32",
+        "Student Name": "ARVIND KUMAR",
+        "Father's Name": "UMESH CHAUDHARY"
+    },
+    {
+        "SNO": "32",
+        "AdmissionNumber": "SAV-10-33",
+        "Student Name": "SANTOSH KUMAR",
+        "Father's Name": "BIJAY KUMAR"
+    },
+    {
+        "SNO": "33",
+        "AdmissionNumber": "SAV-10-34",
+        "Student Name": "MD. AQIB JAVED",
+        "Father's Name": "MD. HABIB ALAM"
+    },
+    {
+        "SNO": "34",
+        "AdmissionNumber": "SAV-10-35",
+        "Student Name": "KUNDAN KUMAR",
+        "Father's Name": "KRISHNANAND THAKUR"
+    },
+    {
+        "SNO": "35",
+        "AdmissionNumber": "SAV-10-36",
+        "Student Name": "DHIRAJ KUMAR",
+        "Father's Name": "HIRALAL SINGH"
+    },
+    {
+        "SNO": "36",
+        "AdmissionNumber": "SAV-10-37",
+        "Student Name": "SAURABH KUMAR",
+        "Father's Name": "RAM EKBAL PANDEY"
+    },
+    {
+        "SNO": "37",
+        "AdmissionNumber": "SAV-10-38",
+        "Student Name": "ANKIT ABHISHEK",
+        "Father's Name": "DEVENDRA CHOUDHARY"
+    },
+    {
+        "SNO": "38",
+        "AdmissionNumber": "SAV-10-39",
+        "Student Name": "SUMIT MANDAL",
+        "Father's Name": "PRAKASH MANDAL"
+    },
+    {
+        "SNO": "39",
+        "AdmissionNumber": "SAV-10-40",
+        "Student Name": "SHUBHAM RAJ",
+        "Father's Name": "SARVESH KUMAR SINGH"
+    },
+    {
+        "SNO": "40",
+        "AdmissionNumber": "SAV-10-41",
+        "Student Name": "ABHINAV KUMAR",
+        "Father's Name": "SAMBHU SARAN CAUHAN"
+    },
+    {
+        "SNO": "41",
+        "AdmissionNumber": "SAV-10-42",
+        "Student Name": "SURAJ KUMAR",
+        "Father's Name": "RAKESH KUMAR THAKUR"
+    },
+    {
+        "SNO": "42",
+        "AdmissionNumber": "SAV-10-43",
+        "Student Name": "NIRAJ KUMAR",
+        "Father's Name": "RAJENDRA RAVIDAS"
+    },
+    {
+        "SNO": "43",
+        "AdmissionNumber": "SAV-10-44",
+        "Student Name": "KUMAR ARYABHATTA",
+        "Father's Name": "INDRADEV PRASAD YADAV"
+    },
+    {
+        "SNO": "44",
+        "AdmissionNumber": "SAV-10-45",
+        "Student Name": "NIRAJ RANJAN",
+        "Father's Name": "MITHILESH KUMAR"
+    },
+    {
+        "SNO": "45",
+        "AdmissionNumber": "SAV-10-46",
+        "Student Name": "SAKET KUMAR",
+        "Father's Name": "DEV KUMAR SINGH"
+    },
+    {
+        "SNO": "46",
+        "AdmissionNumber": "SAV-10-47",
+        "Student Name": "AVINAL KUMAR",
+        "Father's Name": "ANIL CHOUDHARY"
+    },
+    {
+        "SNO": "47",
+        "AdmissionNumber": "SAV-10-48",
+        "Student Name": "KUNAL JIGYASU",
+        "Father's Name": "ASHOK KUMAR MANDAL"
+    },
+    {
+        "SNO": "48",
+        "AdmissionNumber": "SAV-10-50",
+        "Student Name": "PRAMOD KUMAR TUDU",
+        "Father's Name": "BIJENDRA TUDU"
+    },
+    {
+        "SNO": "49",
+        "AdmissionNumber": "SAV-10-51",
+        "Student Name": "HIMANSU SAGAR",
+        "Father's Name": "SUNIL KUMAR"
+    },
+    {
+        "SNO": "50",
+        "AdmissionNumber": "SAV-10-52",
+        "Student Name": "ROHIT KUMAR",
+        "Father's Name": "SATISH PRASAD"
+    },
+    {
+        "SNO": "51",
+        "AdmissionNumber": "SAV-10-53",
+        "Student Name": "ABHISHEK KUMAR",
+        "Father's Name": "ARVIND SINGH"
+    },
+    {
+        "SNO": "52",
+        "AdmissionNumber": "SAV-10-54",
+        "Student Name": "MUKUL RANJAN",
+        "Father's Name": "SIARAM PRASAD"
+    },
+    {
+        "SNO": "53",
+        "AdmissionNumber": "SAV-10-55",
+        "Student Name": "SONU KUMAR",
+        "Father's Name": "PARMESHWAR SHARMA"
+    },
+    {
+        "SNO": "54",
+        "AdmissionNumber": "SAV-10-56",
+        "Student Name": "SANJAY KUMAR DIVAKAR",
+        "Father's Name": "BHOLA RAJAK"
+    },
+    {
+        "SNO": "55",
+        "AdmissionNumber": "SAV-10-57",
+        "Student Name": "MD. ASHFAQUE KHALID",
+        "Father's Name": "MD. SAKIL ANSARI"
+    },
+    {
+        "SNO": "56",
+        "AdmissionNumber": "SAV-10-61",
+        "Student Name": "AJNIKA KUMARI",
+        "Father's Name": "BIJENDRA PRASAD"
+    },
+    {
+        "SNO": "57",
+        "AdmissionNumber": "SAV-10-62",
+        "Student Name": "SHALINI SAURAV",
+        "Father's Name": "SUNIL PRASAD SAHA"
+    },
+    {
+        "SNO": "58",
+        "AdmissionNumber": "SAV-10-63",
+        "Student Name": "RAJ LAXMI",
+        "Father's Name": "SUDESH KUMAR"
+    },
+    {
+        "SNO": "59",
+        "AdmissionNumber": "SAV-10-64",
+        "Student Name": "AKRITI RANJAN",
+        "Father's Name": "ANUJ KUMAR NIRALA"
+    },
+    {
+        "SNO": "60",
+        "AdmissionNumber": "SAV-10-65",
+        "Student Name": "ANAMIKA BHARTI",
+        "Father's Name": "RAM KUMAR"
+    },
+    {
+        "SNO": "61",
+        "AdmissionNumber": "SAV-10-66",
+        "Student Name": "DEEPSHIKHA KUMARI",
+        "Father's Name": "MRITUNJAY LAL DAS"
+    },
+    {
+        "SNO": "62",
+        "AdmissionNumber": "SAV-10-67",
+        "Student Name": "KASHISH",
+        "Father's Name": "KISHOR KUMAR"
+    },
+    {
+        "SNO": "63",
+        "AdmissionNumber": "SAV-10-68",
+        "Student Name": "ANSHU PRIYA",
+        "Father's Name": "BHOLA NATH PATHAK"
+    },
+    {
+        "SNO": "64",
+        "AdmissionNumber": "SAV-10-69",
+        "Student Name": "RICHA RANJAN",
+        "Father's Name": "HEMANT KUMAR"
+    },
+    {
+        "SNO": "65",
+        "AdmissionNumber": "SAV-10-70",
+        "Student Name": "JYOTI KUMARI",
+        "Father's Name": "LAL SURAJ RAM"
+    },
+    {
+        "SNO": "66",
+        "AdmissionNumber": "SAV-10-71",
+        "Student Name": "PALLAVI GUDAN",
+        "Father's Name": "TEJ NARAYANA SINGH"
+    },
+    {
+        "SNO": "67",
+        "AdmissionNumber": "SAV-10-72",
+        "Student Name": "NUTAN KUMARI",
+        "Father's Name": "SUNIL KUMAR"
+    },
+    {
+        "SNO": "68",
+        "AdmissionNumber": "SAV-10-73",
+        "Student Name": "SANJANA KUMARI",
+        "Father's Name": "GANESH PRASAD GUPTA"
+    },
+    {
+        "SNO": "69",
+        "AdmissionNumber": "SAV-10-74",
+        "Student Name": "PRACHI PRIYA",
+        "Father's Name": "AVINASH CHOUDHARY"
+    },
+    {
+        "SNO": "70",
+        "AdmissionNumber": "SAV-10-75",
+        "Student Name": "ASTHA JYOTI",
+        "Father's Name": "BIPIN KUMAR"
+    },
+    {
+        "SNO": "71",
+        "AdmissionNumber": "SAV-10-78",
+        "Student Name": "SURABHI RAMAN",
+        "Father's Name": "RAMAN KUMAR SRIVASTAVA"
+    },
+    {
+        "SNO": "72",
+        "AdmissionNumber": "SAV-10-79",
+        "Student Name": "SIDDHIDATRI KUMARI",
+        "Father's Name": "NAND KISHOR KAJI"
+    },
+    {
+        "SNO": "73",
+        "AdmissionNumber": "SAV-10-80",
+        "Student Name": "SHREYA SHREE",
+        "Father's Name": "RAMANAND PANDIT"
+    },
+    {
+        "SNO": "74",
+        "AdmissionNumber": "SAV-10-81",
+        "Student Name": "PUJA KUMARI",
+        "Father's Name": "NIRANJAN MANDAL"
+    },
+    {
+        "SNO": "75",
+        "AdmissionNumber": "SAV-10-82",
+        "Student Name": "SHRUTI KUMARI",
+        "Father's Name": "JAY PRAKASH GUPTA"
+    },
+    {
+        "SNO": "76",
+        "AdmissionNumber": "SAV-10-83",
+        "Student Name": "SONI SUPRIYA",
+        "Father's Name": "HARI KISHOR THAKUR"
+    },
+    {
+        "SNO": "77",
+        "AdmissionNumber": "SAV-10-84",
+        "Student Name": "LAXMI KUMARI",
+        "Father's Name": "BARUN KUMAR"
+    },
+    {
+        "SNO": "78",
+        "AdmissionNumber": "SAV-10-85",
+        "Student Name": "PUJA KUMARI",
+        "Father's Name": "KAILASH PRASAD"
+    },
+    {
+        "SNO": "79",
+        "AdmissionNumber": "SAV-10-86",
+        "Student Name": "VINAMRATA RANI",
+        "Father's Name": "RAVIKANT SINGH"
+    },
+    {
+        "SNO": "80",
+        "AdmissionNumber": "SAV-10-87",
+        "Student Name": "PRATIBHA KUMARI",
+        "Father's Name": "BIHARI LAL PANJIYARA"
+    },
+    {
+        "SNO": "81",
+        "AdmissionNumber": "SAV-10-88",
+        "Student Name": "ARCHANA RANJAN",
+        "Father's Name": "RAJIV KUMAR RANJAN"
+    },
+    {
+        "SNO": "82",
+        "AdmissionNumber": "SAV-10-89",
+        "Student Name": "SAMRIN FATMA",
+        "Father's Name": "MD. IMTIYAZ ALAM"
+    },
+    {
+        "SNO": "83",
+        "AdmissionNumber": "SAV-10-90",
+        "Student Name": "PRIYA PRATIK",
+        "Father's Name": "AJAY KUMAR YADAV"
+    },
+    {
+        "SNO": "84",
+        "AdmissionNumber": "SAV-10-91",
+        "Student Name": "ASTHA RAI",
+        "Father's Name": "SURENDRA PRASAD"
+    },
+    {
+        "SNO": "85",
+        "AdmissionNumber": "SAV-10-92",
+        "Student Name": "SWETA RAJ",
+        "Father's Name": "DINANATH RAJAK"
+    },
+    {
+        "SNO": "86",
+        "AdmissionNumber": "SAV-10-93",
+        "Student Name": "DIVYA RANI",
+        "Father's Name": "RANJEET KUMAR"
+    },
+    {
+        "SNO": "87",
+        "AdmissionNumber": "SAV-10-94",
+        "Student Name": "TEJASWI KUMARI",
+        "Father's Name": "SATYAPAL KUMAR"
+    },
+    {
+        "SNO": "88",
+        "AdmissionNumber": "SAV-10-95",
+        "Student Name": "SUSHMITA",
+        "Father's Name": "JAINENDRA KUMAR NIRALA"
+    },
+    {
+        "SNO": "89",
+        "AdmissionNumber": "SAV-10-96",
+        "Student Name": "MUSKAN KUMARI",
+        "Father's Name": "GOVIND PRASAD SAH"
+    },
+    {
+        "SNO": "90",
+        "AdmissionNumber": "SAV-10-97",
+        "Student Name": "SWARNAM SINHA",
+        "Father's Name": "VINAY KUMAR"
+    },
+    {
+        "SNO": "91",
+        "AdmissionNumber": "SAV-10-98",
+        "Student Name": "HIMADRI PATEL",
+        "Father's Name": "BIRENDRA KUMAR PATEL"
+    },
+    {
+        "SNO": "92",
+        "AdmissionNumber": "SAV-10-99",
+        "Student Name": "RIYA RAJ",
+        "Father's Name": "DYANAND KUMAR"
+    },
+    {
+        "SNO": "93",
+        "AdmissionNumber": "SAV-10-100",
+        "Student Name": "SHILPI KUMARI",
+        "Father's Name": "PRADEEP SAH"
+    },
+    {
+        "SNO": "94",
+        "AdmissionNumber": "SAV-10-101",
+        "Student Name": "RINA KUMARI",
+        "Father's Name": "KAILASH RAJAK"
+    },
+    {
+        "SNO": "95",
+        "AdmissionNumber": "SAV-10-102",
+        "Student Name": "PUJA KUMARI",
+        "Father's Name": "UDAY PRASAD"
+    },
+    {
+        "SNO": "96",
+        "AdmissionNumber": "SAV-10-103",
+        "Student Name": "APARNA RAJ",
+        "Father's Name": "JETA KUMAR"
+    },
+    {
+        "SNO": "97",
+        "AdmissionNumber": "SAV-10-105",
+        "Student Name": "ADITI SHREE",
+        "Father's Name": "KRISHNA KUMAR PRASAD"
+    },
+    {
+        "SNO": "98",
+        "AdmissionNumber": "SAV-10-106",
+        "Student Name": "PUJA KUMARI",
+        "Father's Name": "DUKH HARAN PRASAD SINGH"
+    },
+    {
+        "SNO": "99",
+        "AdmissionNumber": "SAV-10-107",
+        "Student Name": "VANDANA KUMARI",
+        "Father's Name": "BHARAT KUMAR SADAIV"
+    },
+    {
+        "SNO": "100",
+        "AdmissionNumber": "SAV-10-108",
+        "Student Name": "KHUSHBU KUMARI",
+        "Father's Name": "ABHAY KUMAR"
+    },
+    {
+        "SNO": "101",
+        "AdmissionNumber": "SAV-10-109",
+        "Student Name": "SMRITI KUMARI",
+        "Father's Name": "SANJAY PRASAD"
+    },
+    {
+        "SNO": "102",
+        "AdmissionNumber": "SAV-10-110",
+        "Student Name": "PRITI KUMARI",
+        "Father's Name": "ABHAY KUMAR"
+    },
+    {
+        "SNO": "103",
+        "AdmissionNumber": "SAV-10-112",
+        "Student Name": "VANDANA RAJ",
+        "Father's Name": "OM PRAKASH KUMAR"
+    },
+    {
+        "SNO": "104",
+        "AdmissionNumber": "SAV-10-113",
+        "Student Name": "SURBHI CHAUHAN",
+        "Father's Name": "ASHOK PRYADARSHI"
+    },
+    {
+        "SNO": "105",
+        "AdmissionNumber": "SAV-10-114",
+        "Student Name": "RITU RASHMI",
+        "Father's Name": "RAVINDRA KUMAR SINGH"
+    },
+    {
+        "SNO": "106",
+        "AdmissionNumber": "SAV-10-115",
+        "Student Name": "MADHU KUMARI",
+        "Father's Name": "PREM CHAND CHOURASIA"
+    },
+    {
+        "SNO": "107",
+        "AdmissionNumber": "SAV-10-116",
+        "Student Name": "PREETI KUMARI",
+        "Father's Name": "MANOJ KUMAR"
+    },
+    {
+        "SNO": "108",
+        "AdmissionNumber": "SAV-10-117",
+        "Student Name": "SHALINI KUMARI",
+        "Father's Name": ""
+    }
+]
+}
