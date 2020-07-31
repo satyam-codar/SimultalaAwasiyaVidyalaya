@@ -104,7 +104,7 @@ const SignedIn = (props) => {
 			<div>
 				<div className="row" style={divStyle2}>
 					<p className="alert alert-danger mb-0" role="alert">
-						To view and edit your profile you must verifie your
+						To view and edit your profile you must verify your
 						email first.
 					</p>
 				</div>

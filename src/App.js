@@ -16,7 +16,9 @@ import BatchThirteen from "./components/TopNavbar/AlumuniNetwork/BatchThirteen";
 import Home from "./components/Home/home";
 import MainGallery from "./components/TopNavbar/Gallery";
 import NotFound from "./components/All/Notfound";
-import LazyLoading from "./components/All/LazyLoading";
+// import LazyLoading from "./components/All/LazyLoading";
+import Donate from "./components/TopNavbar/Donate";
+import Magazine from "./components/TopNavbar/Magazine";
 
 function App() {
 	return (
@@ -27,6 +29,8 @@ function App() {
 					<Route exact path="/" component={Home} />
 					<Route path="/navbar" component={TopNavbar} />
 					<Route path="/gallery" component={MainGallery} />
+					<Route path="/donate" component={Donate} />
+					<Route path="/magazine" component={Magazine} />
 					<Route path="/YourProfile/:id" component={UserProfile} />
 					<Route path="/profile/:id" component={Profile} />
 					<Route path="/signin" component={SignIn} />
@@ -35,7 +39,7 @@ function App() {
 					<Route path="/alumni/2011" component={BatchEleven} />
 					<Route path="/alumni/2012" component={BatchTwelve} />
 					<Route path="/alumni/2013" component={BatchThirteen} />
-					<Route path="/lazyloading" component={LazyLoading} />
+					{/* <Route path="/lazyloading" component={LazyLoading} /> */}
 
 					<Route component={NotFound} />
 				</Switch>

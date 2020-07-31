@@ -113,10 +113,11 @@ class Footer extends Component {
 									style={{ width: "120px" }}
 								/>
 								<p>
-									Here you can use rows and columns to
-									organize your footer content. Lorem ipsum
-									dolor sit amet, consectetur adipisicing
-									elit.
+									This platform is entirely dedicated to all
+									the members of Simulatala Awasiya Vidyalaya.
+									This platform will enhance the interaction
+									between the school body and the student
+									body.
 								</p>
 							</div>
 							{/* <!-- Grid column --> */}
@@ -125,38 +126,41 @@ class Footer extends Component {
 							<div className="col-md-4 col-lg-4 col-xl-4 mx-auto">
 								{/* <!-- Links --> */}
 								<h6 className="text-uppercase font-weight-bold ">
-									Useful links
+									Quick links
 								</h6>
 								<hr
 									className="teal accent-3 mb-2 mt-0 d-inline-block mx-auto"
 									style={{ width: "60px" }}
 								/>
 								<p>
-									<NavLink className="dark-grey-text" to="#!">
-										Your Account
+									<NavLink className="dark-grey-text" to="/">
+										Home
 									</NavLink>
 								</p>
 								<p>
+									<NavLink
+										className="dark-grey-text"
+										to="gallery"
+									>
+										Gallery
+									</NavLink>
+								</p>
+								{/* <p>
 									<NavLink
 										className="dark-grey-text"
 										to="/signup"
 									>
 										Resister
 									</NavLink>
-								</p>
-								<p>
+								</p> */}
+								{/* <p>
 									<NavLink
 										className="dark-grey-text"
 										to="/donate"
 									>
 										Donate
 									</NavLink>
-								</p>
-								<p>
-									<NavLink className="dark-grey-text" to="/">
-										Home
-									</NavLink>
-								</p>
+								</p> */}
 							</div>
 							{/* <!-- Grid column --> */}
 

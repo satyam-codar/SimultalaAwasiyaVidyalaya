@@ -145,7 +145,7 @@ const TopNavbar = (props) => {
 								aria-expanded="false"
 								style={{ color: "black" }}
 							>
-								Alumuni Network
+								Alumni Network
 							</NavLink>
 							<div
 								className="dropdown-menu"
