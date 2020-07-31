@@ -145,22 +145,22 @@ class Footer extends Component {
 										Gallery
 									</NavLink>
 								</p>
-								{/* <p>
-									<NavLink
-										className="dark-grey-text"
-										to="/signup"
-									>
-										Resister
-									</NavLink>
-								</p> */}
-								{/* <p>
+								<p>
 									<NavLink
 										className="dark-grey-text"
 										to="/donate"
 									>
-										Donate
+										Make Donation
 									</NavLink>
-								</p> */}
+								</p>
+								<p>
+									<NavLink
+										className="dark-grey-text"
+										to="/magazine"
+									>
+										Magazine
+									</NavLink>
+								</p>
 							</div>
 							{/* <!-- Grid column --> */}
 
