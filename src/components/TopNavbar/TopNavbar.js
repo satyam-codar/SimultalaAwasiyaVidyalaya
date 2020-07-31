@@ -175,16 +175,10 @@ const TopNavbar = (props) => {
 								>
 									2013 Batch
 								</NavLink>
-								<NavLink className="dropdown-item" to="/2014">
+								{/* <NavLink className="dropdown-item" to="/alumni/2014">
 									2014 Batch
 								</NavLink>
-								<NavLink
-									className="dropdown-item"
-									to="/alumni/2014"
-								>
-									2014
-								</NavLink>
-								<div className="dropdown-divider"></div>
+								<div className="dropdown-divider"></div> */}
 							</div>
 						</li>
 					</ul>

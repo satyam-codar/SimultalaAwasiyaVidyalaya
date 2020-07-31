@@ -29,8 +29,13 @@ class UserProfile extends Component {
 		if (e.target.files[0]) {
 			const image = e.target.files[0];
 			this.setState(() => ({ image }));
+			console.log("handle change");
+			alert("A file has been selected please press upload now");
+			console.log(this.state);
 		}
 	};
+	// 	function createMarkup() { return {__html: 'First &middot; Second'}; };
+	// <div dangerouslySetInnerHTML={createMarkup()} />
 
 	handleUpload = () => {
 		const { userInfo } = this.props;
@@ -43,7 +48,7 @@ class UserProfile extends Component {
 			(snapshot) => {
 				// progress function ...
 				const progress = Math.round(
-					(snapshot.bytesTransferred / snapshot.totalBytes) * 100
+					(snapshot.bytesTransferred / snapshot.totalBytes) * 200
 				);
 				this.setState({ progress });
 			},
@@ -111,28 +116,46 @@ class UserProfile extends Component {
 								we are proud to have you as a part of Alumni
 								relation of our school.
 							</p>
-							{checked ? (
-								<img
-									src={
-										// this.state.url ||
-										process.env.PUBLIC_URL +
-										"/MalePH200x215.png"
-										// this.state.imgURL
-									}
-									alt="Placeholder"
-									className="img-fluid"
-									id="myimg"
+							<div>
+								{checked ? (
+									<img
+										src={
+											// this.state.url ||
+											process.env.PUBLIC_URL +
+											"/MalePH200x215.png"
+											// this.state.imgURL
+										}
+										alt="Placeholder"
+										className="img-fluid"
+										id="myimg"
+										width="250px"
+										// style={{ borderTop: "3px gray solid" }}
+									/>
+								) : (
+									<img
+										src={
+											process.env.PUBLIC_URL +
+											"/FemalePH.png"
+										}
+										alt="Placeholder"
+										className="img-fluid"
+										id="myimg"
+										width="250px"
+									/>
+								)}
+							</div>
+							<div className="p-0">
+								<progress
+									value={this.state.progress}
+									max="200"
+									className="progress"
+									style={{
+										height: "4px",
+										display: "inline",
+										fontSize: "25px",
+									}}
 								/>
-							) : (
-								<img
-									src={
-										process.env.PUBLIC_URL + "/FemalePH.png"
-									}
-									alt="Placeholder"
-									className="img-fluid"
-									id="myimg"
-								/>
-							)}
+							</div>
 							<div className="file-field big mt-1">
 								<label htmlFor="upload-button">
 									<FontAwesomeIcon
@@ -148,6 +171,7 @@ class UserProfile extends Component {
 										style={{
 											marginBottom: "6px",
 											marginTop: "1px",
+											// border: "1px dotted",
 										}}
 									>
 										{" "}
@@ -163,10 +187,10 @@ class UserProfile extends Component {
 								/>
 								<button
 									onClick={this.handleUpload}
-									className="btn btn-success"
+									className="btn alert-danger"
 									style={{ padding: 0 }}
 								>
-									Upload
+									<b>Upload</b>
 								</button>
 							</div>
 							{/* <div>

@@ -15,10 +15,12 @@
 	color: rgba(0, 0, 0, 0.562);
 }
 .choose-photo:hover {
-	color: rgb(255, 255, 255);
-	background-color: rgba(0, 128, 0, 0.822);
+	color: rgb(0, 0, 0);
+	background-color: rgba(0, 128, 0, 0.288);
 	border-radius: 3px;
 	padding-bottom: 0px;
+	margin-bottom: 5px;
+	border: 1px dotted;
 }
 
 /* Small devices (tablets, 768px and up) */

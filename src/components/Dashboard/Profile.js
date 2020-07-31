@@ -89,6 +89,7 @@ class Profile2 extends Component {
 									alt="Placeholder"
 									className="img-fluid"
 									id="myimg"
+									width="250px"
 								/>
 							) : (
 								<img
@@ -98,6 +99,7 @@ class Profile2 extends Component {
 									alt="Placeholder"
 									className="img-fluid"
 									id="myimg"
+									width="250px"
 								/>
 							)}
 						</div>

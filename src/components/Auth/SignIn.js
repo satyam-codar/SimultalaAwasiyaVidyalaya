@@ -28,7 +28,7 @@ class SignIn extends Component {
 	render() {
 		const { authError } = this.props;
 		const { isAuthenticated } = this.props;
-		
+
 		if (isAuthenticated.uid) {
 			return <Redirect to="/" />;
 		} else {
@@ -92,7 +92,7 @@ class SignIn extends Component {
 
 						{/* <!-- Register --> */}
 						<p>
-							Not a member?
+							Not a member?&nbsp;
 							<NavLink to="/signup">SignUp</NavLink>
 						</p>
 					</form>
