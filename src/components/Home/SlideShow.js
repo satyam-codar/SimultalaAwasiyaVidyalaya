@@ -10,19 +10,21 @@ const SlideShow = (props) => {
 	return (
 		// <!-- Slide show -->
 
-		<div className="container-fluid">
+		<div className="container-fluid pl-0 pr-0">
 			<div className="row no-gutters">
-				<div className="col-md-2 col-lg-2">
+				{/* <div className="col-md-2 col-lg-2">
 					{auth.isEmpty ? <SignedOut /> : <SignedIn />}
-				</div>
+				</div> */}
 				<div
-					className="col-xs-12 col-md-8 col-lg-8"
+					className=""
 					style={{ width: "100%", height: "auto" }}
 				>
 					<div
 						id="demo"
 						className="carousel slide"
 						data-ride="carousel"
+						data-interval="2500"
+						// data-pause="false"
 					>
 						<ul className="carousel-indicators">
 							<li
@@ -32,68 +34,44 @@ const SlideShow = (props) => {
 							></li>
 							<li data-target="#demo" data-slide-to="1"></li>
 							<li data-target="#demo" data-slide-to="2"></li>
-							<li data-target="#demo" data-slide-to="3"></li>
-							<li data-target="#demo" data-slide-to="4"></li>
+							{/* <li data-target="#demo" data-slide-to="3"></li>
+							<li data-target="#demo" data-slide-to="4"></li> */}
 						</ul>
 						<div className="carousel-inner">
 							<div className="carousel-item active">
 								<img
-									src="image10_1.jpg"
+									src="temptt/home-slider1.jpg"
 									alt="Los Angeles"
 									width="100%"
 									height="auto"
 								/>
-								<div className="carousel-caption">
-									{/* <h3>Write caption!</h3>
-									<p>This photo is awesome!</p> */}
+								<div className="carousel-caption d-none d-md-block">
+									<h3>A MULTI-CUISINE RESTAURANT</h3>
+									<p>Here at Temptt, our focus is on the whole experience of enjoying multi-cuisine food and a luxury dining experience. We aim to provide patrons with great food, desserts, service and experience and this philosophy is shared among all our staff. We are a motivated team of health-conscious individuals who are committed to the highest standards of food quality and customer service.</p>
 								</div>
 							</div>
 							<div className="carousel-item">
 								<img
-									src="image10_5.jpg"
+									src="temptt/home-slider3.jpg"
 									alt="Chicago"
 									width="100%"
 									height="auto"
 								/>
-								<div className="carousel-caption">
-									{/* <h3>Write caption!</h3>
-									<p>This photo is awesome!</p> */}
+								<div className="carousel-caption d-none d-md-block">
+									<h3>A MULTI-CUISINE RESTAURANT</h3>
+									<p>Here at Temptt, our focus is on the whole experience of enjoying multi-cuisine food and a luxury dining experience. We aim to provide patrons with great food, desserts, service and experience and this philosophy is shared among all our staff. We are a motivated team of health-conscious individuals who are committed to the highest standards of food quality and customer service.</p>
 								</div>
 							</div>
 							<div className="carousel-item">
 								<img
-									src="image10_7.jpg"
+									src="temptt/sarkhej-restaurant-concept.jpg"
 									alt="Chicago"
 									width="100%"
 									height="auto"
 								/>
-								<div className="carousel-caption">
-									{/* <h3>Write caption!</h3>
-									<p>This photo is awesome!</p> */}
-								</div>
-							</div>
-							<div className="carousel-item">
-								<img
-									src="image10_9.jpg"
-									alt="Chicago"
-									width="100%"
-									height="auto"
-								/>
-								<div className="carousel-caption">
-									{/* <h3>Write caption!</h3>
-									<p>This photo is awesome!</p> */}
-								</div>
-							</div>
-							<div className="carousel-item">
-								<img
-									src="image10_6.jpg"
-									alt="Chicago"
-									width="100%"
-									height="auto"
-								/>
-								<div className="carousel-caption">
-									{/* <h3>Write caption!</h3>
-									<p>This photo is awesome!</p> */}
+								<div className="carousel-caption d-none d-md-block">
+									<h3>A MULTI-CUISINE RESTAURANT</h3>
+									<p>Here at Temptt, our focus is on the whole experience of enjoying multi-cuisine food and a luxury dining experience. We aim to provide patrons with great food, desserts, service and experience and this philosophy is shared among all our staff. We are a motivated team of health-conscious individuals who are committed to the highest standards of food quality and customer service.</p>
 								</div>
 							</div>
 							{/* <!-- <div className="carousel-item">
@@ -125,9 +103,9 @@ const SlideShow = (props) => {
 						</a>
 					</div>
 				</div>
-				<div className="col-md-2 col-lg-2 container-fluid mt-4">
+				{/* <div className="col-md-2 col-lg-2 container-fluid mt-4">
 					<SignIn />
-				</div>
+				</div> */}
 			</div>
 		</div>
 

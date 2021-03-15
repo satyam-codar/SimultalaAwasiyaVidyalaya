@@ -19,13 +19,16 @@ import NotFound from "./components/All/Notfound";
 // import LazyLoading from "./components/All/LazyLoading";
 import Donate from "./components/TopNavbar/Donate";
 import Magazine from "./components/TopNavbar/Magazine";
+import Navbar from "./components/TopNavbar/Navbar";
 
 function App() {
 	return (
 		<BrowserRouter>
 			<div className="App">
-				<TopNavbar />
+				<Navbar/>
+				{/* <TopNavbar/> */}
 				<Switch>
+					
 					<Route exact path="/" component={Home} />
 					<Route path="/navbar" component={TopNavbar} />
 					<Route path="/gallery" component={MainGallery} />

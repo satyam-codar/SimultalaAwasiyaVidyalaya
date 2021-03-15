@@ -12,6 +12,7 @@ library.add(faHome);
 const TopNavbar = (props) => {
 	return (
 		<div style={{ paddingLeft: "15px", paddingRight: "15px" }}>
+			{/* 			
 			<div className="page-header">
 				<div className="row jumbotron py-2 mb-1 pr-1">
 					<div className="col-4 col-sm-4 col-md-2 col-lg-2">
@@ -23,7 +24,7 @@ const TopNavbar = (props) => {
 							alt="sav-logo"
 						/>
 					</div>
-					{/* <div className="col"> col-sm-4 col-md-4 col-lg-4</div> */}
+					{/* <div className="col"> col-sm-4 col-md-4 col-lg-4</div> 
 					<div className="col-8 col-sm-8 col-md-10 col-lg-10">
 						<h2 style={{ fontsize: "10vw" }}>
 							Alumni Relations, Simultala Awasiya Vidyalaya
@@ -31,18 +32,20 @@ const TopNavbar = (props) => {
 						<small>Simultala, Jamui, Bihar</small>
 					</div>
 				</div>
-			</div>
+			</div> 
+			*/}
+			
 			{/* <!-- Top Navbar --> */}
 			<nav
-				className="navbar navbar-expand-lg navbar-light py-0"
-				style={{ backgroundColor: "#32d49b59" }}
+				className="navbar navbar-expand-lg navbar-light py-0 mt-0"
+				style={{ backgroundColor: "#1D1A05", height:"100px" }}
 			>
 				<NavLink className="nav-link" to="/">
 					{/* SAV */}
 					<img
 						src={process.env.PUBLIC_URL + "/savlogo.png"}
 						className="savlogo"
-						width="40px"
+						width="70px"
 						alt="SAV"
 					/>
 				</NavLink>
@@ -64,7 +67,7 @@ const TopNavbar = (props) => {
 				>
 					<ul
 						className="navbar-nav mr-auto"
-						style={{ textEmphasisColor: "black" }}
+						style={{ textEmphasisColor: "white" }}
 					>
 						<li className="nav-item active">
 							<NavLink className="nav-link" to="/">
@@ -73,20 +76,20 @@ const TopNavbar = (props) => {
 								<span className="sr-only">(current)</span>
 							</NavLink>
 						</li>
-						<li className="nav-item" style={{ textcolor: "black" }}>
+						<li className="nav-item" style={{ textcolor: "white" }}>
 							<NavLink
 								className="nav-link color"
 								to="/magazine"
-								style={{ color: "black" }}
+								style={{ color: "white" }}
 							>
-								Magazine
+								Menu
 							</NavLink>
 						</li>
 						<li className="nav-item">
 							<NavLink
 								className="nav-link color"
 								to="/donate"
-								style={{ color: "black" }}
+								style={{ color: "white" }}
 							>
 								Donate
 							</NavLink>
@@ -95,7 +98,7 @@ const TopNavbar = (props) => {
 							<NavLink
 								className="nav-link"
 								to="/gallery"
-								style={{ color: "black" }}
+								style={{ color: "white" }}
 							>
 								Gallery
 							</NavLink>
@@ -109,7 +112,7 @@ const TopNavbar = (props) => {
 								data-toggle="dropdown"
 								aria-haspopup="true"
 								aria-expanded="false"
-								style={{ color: "black" }}
+								style={{ color: "white" }}
 							>
 								Events
 							</NavLink>
@@ -120,14 +123,14 @@ const TopNavbar = (props) => {
 								<NavLink
 									className="dropdown-item"
 									to="#"
-									style={{ color: "black" }}
+									style={{ color: "white" }}
 								>
 									Comming Soon
 								</NavLink>
 								<NavLink
 									className="dropdown-item"
 									to="#"
-									style={{ color: "black" }}
+									style={{ color: "white" }}
 								>
 									Comming Soon
 								</NavLink>
@@ -143,7 +146,7 @@ const TopNavbar = (props) => {
 								data-toggle="dropdown"
 								aria-haspopup="true"
 								aria-expanded="false"
-								style={{ color: "black" }}
+								style={{ color: "white" }}
 							>
 								Alumni Network
 							</NavLink>
@@ -182,7 +185,7 @@ const TopNavbar = (props) => {
 							</div>
 						</li>
 					</ul>
-					<form className="form-inline my-2 my-lg-0">
+					{/* <form className="form-inline my-2 my-lg-0">
 						<input
 							className="form-control mr-sm-2"
 							type="search"
@@ -195,7 +198,7 @@ const TopNavbar = (props) => {
 						>
 							Search
 						</button>
-					</form>
+					</form> */}
 				</div>
 			</nav>
 			{/* <!-- / Top-Navbar --> */}

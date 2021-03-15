@@ -1,6 +1,7 @@
 /** @format */
 
 import React, { Component } from "react";
+import Menu from "../Home/menu";
 
 class Magazine extends Component {
 	constructor(props) {
@@ -9,11 +10,10 @@ class Magazine extends Component {
 	}
 	render() {
 		return (
-			<div className="container">
-				<h5 style={{ padding: "50px" }}>
-					Please note that the editors of the magazine are developing
-					this section.
-				</h5>
+			<div className="container"  >
+				
+				{/* <Menu/> */}
+				<Menu/>
 			</div>
 		);
 	}
